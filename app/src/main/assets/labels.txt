@@ -1,0 +1,10 @@
+ants
+bees
+beetle
+caterpillar
+earthworms
+earwig
+grasshopper
+moth
+slug
+snail
